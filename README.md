@@ -41,3 +41,5 @@ chmod u+x ./log-archive.sh
 ![Screenshot of bash terminal showing the compressed tarball in output directory](./img/compressed_file.png)
 
 ## License
+
+Project is licensed under [MIT License](./LICENSE)
